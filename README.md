@@ -13,7 +13,7 @@
 
 <img align="right" src="YOUR_IMAGE_URL.jpg" alt="Profile Illustration" width="280" />
 
-"Bas chali jaande ae Baabe di mer karke"
+"XAUUSD"
 
 * 🔭 I’m currently building **TrackFuel**, a fitness tracking web application, and **HSR LeadFlow**, a lead management system.
 * 🧠 I’m an undergraduate student actively learning in AI/ML (always a student, not an expert!), and practicing competitive programming.
@@ -47,10 +47,6 @@ A comprehensive lead management system designed during a product analysis assign
 *Tech: Systems Design, Analytics*  
 [View on GitHub](#)
 
-**The Drama Brief**  
-A YouTube commentary channel where I manage automated workflows, scripting, and SEO branding.  
-*Tech: YouTube Studio, SEO, Automation*  
-[View on YouTube](#)
 
 <br>
 
@@ -62,7 +58,7 @@ A YouTube commentary channel where I manage automated workflows, scripting, and 
 
 ### 🏆 Achievements
 
-* 🏅 Secured a Data Science & Analytics internship offer from Amdox.
+* 🏅 Built and managed an e-commerce business generating **30,000**+ monthly revenue through online product sales.
 * 🧠 Certified in Artificial Intelligence Training by Acmegrade and Mood Indigo, IIT Bombay.
 * 👨‍🎓 Registered as a team leader for the Adobe India Hackathon.
 * 💼 Completed corporate job simulations for Goldman Sachs, Deloitte, and Tata.
