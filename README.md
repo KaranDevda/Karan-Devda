@@ -2,23 +2,24 @@
 <h1 align="center">Hello, I'm Karan Devda</h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/karandevda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KaranDevda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:karandevda26014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
 ### 🕵🏻‍♂️ About Me
 
-<img align="right" src="YOUR_IMAGE_URL.jpg" alt="Profile Illustration" width="280" />
+<img align="right" src="![Uploading 222.jpeg…]()
+" alt="Profile Illustration" width="280" />
 
 "XAUUSD"
 
-* 🔭 I’m currently building **TrackFuel**, a fitness tracking web application, and **HSR LeadFlow**, a lead management system.
+* 🔭 I’m currently Learning **System Design** & **Data Structures & Algo**.
 * 🧠 I’m an undergraduate student actively learning in AI/ML (always a student, not an expert!), and practicing competitive programming.
 * 💬 Ask me about C, C++, Python, SQL, or managing YouTube workflows or Even Trading.
-* ⚡ Fun fact: When I'm not doing competitive programming on LeetCode, I'm usually banging weights in the gym or Trading Crypto & Commodities.
+* ⚡ Fun fact: When I'm not doing programming on LeetCode, I'm usually banging weights in the gym or trading Crypto & Commodities.
 
 <br>
 
@@ -42,11 +43,10 @@ A fitness tracking web application built to monitor physique progress and dietar
 *Tech: Software Development, Web Technologies*  
 [View on GitHub](#)
 
-**HSR LeadFlow**  
-A comprehensive lead management system designed during a product analysis assignment.  
-*Tech: Systems Design, Analytics*  
-[View on GitHub](#)
-
+**Colorize AI**
+A web application used to Colorise B&W Images or grayscale images int o colored ones.
+*Tech: Deep Learning, AI*
+[View on GitHub](#https://github.com/KaranDevda/Colorize-AI)
 
 <br>
 
