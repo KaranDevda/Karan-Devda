@@ -116,7 +116,6 @@ Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore · Jul 2022 – Jun 2026 · CGP
 ## 🏆 Achievements
 
 - Built and managed an e-commerce business generating ₹30,000+ in monthly revenue through online product sales
-- Winner — Sansad Khel Pratiyogita 2024, inter-college competitive sports representation
 
 ---
 
