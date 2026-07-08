@@ -1,73 +1,126 @@
-<!-- Header Section -->
-<h1 align="center">Hello, I'm Karan Devda</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karandevda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/KaranDevda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:karandevda26014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+# Hi there, I'm Karan Devda 👋
+
+### Final-Year AIML Engineering Student | Full-Stack Developer | Software Developer Intern
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karandevda26014@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranDevda)
+
+</div>
 
 ---
 
-### 🕵🏻‍♂️ About Me
+## 📌 About Me
 
-<img align="right" src="![Uploading 222.jpeg…]()
-" alt="Profile Illustration" width="280" />
+I'm a final-year **B.Tech Computer Science (AIML)** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore, currently working as a **Software Developer Intern**. I build full-stack web applications, REST APIs, and backend systems, with a strong focus on clean architecture, scalability, and performance.
 
-"XAUUSD"
+- 🔭 Currently working as a **Software Developer Intern**, building and maintaining production REST APIs
+- 🌱 Sharpening my skills in **System Design** and scalable backend architecture
+- 💬 Ask me about **Full-Stack Development**, **REST APIs**, or **React/Node.js**
+- 📍 Based in Indore, Madhya Pradesh, India
 
-* 🔭 I’m currently Learning **System Design** & **Data Structures & Algo**.
-* 🧠 I’m an undergraduate student actively learning in AI/ML (always a student, not an expert!), and practicing competitive programming.
-* 💬 Ask me about C, C++, Python, SQL, or managing YouTube workflows or Even Trading.
-* ⚡ Fun fact: When I'm not doing programming on LeetCode, I'm usually banging weights in the gym or trading Crypto & Commodities.
+---
 
-<br>
+## 🛠️ Tech Stack
 
-### </> Tech Stack
+**Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL" />
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### 💻 My Projects
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-I love turning ideas into reality. Here are a few projects I'm proud of:
+**Tools & Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API_Development-005571?style=flat-square&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-4B5563?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-2563EB?style=flat-square)
 
-**TrackFuel**  
-A fitness tracking web application built to monitor physique progress and dietary goals.  
-*Tech: Software Development, Web Technologies*  
-[View on GitHub](#)
+---
 
-**Colorize AI**
-A web application used to Colorise B&W Images or grayscale images int o colored ones.
-*Tech: Deep Learning, AI*
-[View on GitHub](#https://github.com/KaranDevda/Colorize-AI)
+## 💼 Experience
 
-<br>
+**Software Developer Intern** · Prasanj Tech Pvt. Ltd. · *Oct 2025 – Present*
+- Engineered and maintained 15+ REST APIs using a Python/Flask/PostgreSQL stack, improving backend workflow automation across multiple application modules
+- Integrated backend services with frontend systems and third-party APIs, supporting real-time data sync for 1,000+ user transactions
+- Optimized database queries and business logic, reducing average API response time by ~35% under concurrent load
+- Assisted in deployment, debugging, and monitoring of 5+ production features using Git, GitHub, Docker, Postman, and CI/CD workflows
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🚀 Featured Projects
 
-### 🏆 Achievements
+### 🎮 [Simon Says Game](https://github.com/KaranDevda/Simon-Says-Game)
+An interactive memory-based browser game built with JavaScript, focused on clean UI logic and responsive interaction handling.
+`JavaScript` `HTML5` `CSS3`
 
-* 🏅 Built and managed an e-commerce business generating **30,000**+ monthly revenue through online product sales.
-* 🧠 Certified in Artificial Intelligence Training by Acmegrade and Mood Indigo, IIT Bombay.
-* 👨‍🎓 Registered as a team leader for the Adobe India Hackathon.
-* 💼 Completed corporate job simulations for Goldman Sachs, Deloitte, and Tata.
+### 🩺 [Queue Cure](https://github.com/KaranDevda/queue-cure)
+A queue management web application designed to streamline scheduling and reduce wait times through an efficient, structured workflow.
+`JavaScript` `REST API`
 
-<br>
+### 🎨 [Colorize AI](https://github.com/KaranDevda/Colorize-AI)
+An image colorization system that transforms grayscale images into realistic colored outputs using preprocessing techniques like normalization, resizing, contrast enhancement, and noise reduction ahead of model inference.
+`Python` `OpenCV` `NumPy`
 
-### 🤝 Let's Connect
+> 🔜 **TrackFuel** — a full-stack fitness tracking platform (Flask + React + SQLite) — coming soon to GitHub.
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaranDevda&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranDevda&layout=compact&hide_border=true&theme=default" />
+
+<img src="https://streak-stats.demolab.com?user=KaranDevda&theme=default&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranDevda&theme=minimal&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science (AIML)**
+Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore · Jul 2022 – Jun 2026 · CGPA: 7.8
+
+---
+
+## 📜 Certifications
+
+- Data Visualisation for Business Insights — Tata Virtual Internship (Feb 2025)
+- Goldman Sachs Excel Skills Certified — Forage Virtual Internship (Jan 2025)
+- NPTEL Entrepreneurship Essentials — IIT Kharagpur (Apr 2024)
+
+---
+
+## 🏆 Achievements
+
+- Built and managed an e-commerce business generating ₹30,000+ in monthly revenue through online product sales
+- Winner — Sansad Khel Pratiyogita 2024, inter-college competitive sports representation
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [karandevda26014@gmail.com](mailto:karandevda26014@gmail.com) · Indore, Madhya Pradesh, India
+
+</div>
