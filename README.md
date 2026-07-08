@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./cropped_circle_image.png" width="150" height="150" style="border-radius:50%;" alt="Karan Devda" />
 
 # Hi there, I'm Karan Devda 👋
 
